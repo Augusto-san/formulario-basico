@@ -1,45 +1,58 @@
-<!-- Formulario -->
-<div class="caixaFormulario">
-
-	<form action="">
-		
-		<fieldset class="projetoFormulario">
+<!DOCTYPE html>
+	<html lang="pt-BR">
+		<head>
+			<meta charset="UTF-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<title>Formulário</title>
+		</head>
+		<body>
 			
-			<legend><b>Formulário do Programador</b></legend>
-			<br>
-			<div class="inputFormulario">
-				<input type="text" name="nomeFormulario" id="nomeFormulario" class="inputUserFormulario" required>
-				<label for="nomeFormulario">Nome Completo</label>
+			<!-- Formulario -->
+			<div class="caixaFormulario">
+
+				<form action="">
+					
+					<fieldset class="projetoFormulario">
+						
+						<legend><b>Formulário do Programador</b></legend>
+						<br>
+						<div class="inputFormulario">
+							<input type="text" name="nomeFormulario" id="nomeFormulario" class="inputUserFormulario" required>
+							<label for="nomeFormulario">Nome Completo</label>
+						</div>
+
+						<div class="inputFormulario">
+							<input type="email" name="emailFormulario" id="emailFormulario" class="inputUserFormulario" required>
+							<label for="emailFormulario">Email</label>
+						</div>
+
+						<div class="inputFormulario">
+							<input type="tel" name="foneFormulario" id="foneFormulario" class="inputUserFormulario" required>
+							<label for="foneFormulario">Telefone</label>
+						</div>
+						
+							<label>Gênero</label>
+							<input type="radio" id="feminino" name="generoFormulario" value="Feminino" required>
+							<label for="feminino">Feminino</label>
+
+							<input type="radio" id="masculino" name="generoFormulario" value="Masculino" required>
+							<label for="masculino">Masculino</label>
+
+							<input type="radio" id="outros" name="generoFormulario" value="outros" required>
+							<label for="outros">Outros</label>
+					
+						<div class="inputFormulario">
+							<label for="nascimentoFormulario"><b>Data de Nascimento</b></label>	
+							<input type="date" name="nascimentoFormulario" id="nascimentoFormulario" class="inputUserFormulario" required>
+						</div>
+
+
+					</fieldset>
+
+				</form>
+
 			</div>
 
-			<div class="inputFormulario">
-				<input type="email" name="emailFormulario" id="emailFormulario" class="inputUserFormulario" required>
-				<label for="emailFormulario">Email</label>
-			</div>
-
-			<div class="inputFormulario">
-				<input type="tel" name="foneFormulario" id="foneFormulario" class="inputUserFormulario" required>
-				<label for="foneFormulario">Telefone</label>
-			</div>
-			
-				<label>Gênero</label>
-				<input type="radio" id="feminino" name="generoFormulario" value="Feminino" required>
-				<label for="feminino">Feminino</label>
-
-				<input type="radio" id="masculino" name="generoFormulario" value="Masculino" required>
-				<label for="masculino">Masculino</label>
-
-				<input type="radio" id="outros" name="generoFormulario" value="outros" required>
-				<label for="outros">Outros</label>
-		
-			<div class="inputFormulario">
-				<label for="nascimentoFormulario"><b>Data de Nascimento</b></label>	
-				<input type="date" name="nascimentoFormulario" id="nascimentoFormulario" class="inputUserFormulario" required>
-			</div>
-
-
-		</fieldset>
-
-	</form>
-
-</div>
+		</body>
+	</html>
