@@ -48,10 +48,10 @@ legend{
 	left: 0px;
 	pointer-events: none;
 	transition: .5s;
-	color: #777575 !important;
+	color: #777575;
 }
 
-.inputUserFormulario:focus ~ .labelInputFormulario:focus {
+.inputUserFormulario:focus ~ .labelInputFormulario {
 	top:-20px;
 	font-size: 12px;
 	color: #33cc33;
