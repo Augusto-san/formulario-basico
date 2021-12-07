@@ -48,7 +48,7 @@ legend{
 	left: 0px;
 	pointer-events: none;
 	transition: .5s;
-	color: #777575;
+	color: #FFF; /*#777575;*/
 }
 
 .inputUserFormulario:focus ~ .labelInputFormulario,
