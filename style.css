@@ -4,6 +4,7 @@ body{
 }
 
 .caixaFormulario{
+	color: white;
 	position: absolute;
 	top:50%;
 	left: 50%;
@@ -24,5 +25,5 @@ legend{
 	text-align: center;
 	background-color: #33cc33;
 	border-radius: 8px;
-	color: white;
+
 }
