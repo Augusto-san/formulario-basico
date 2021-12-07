@@ -75,10 +75,12 @@ legend{
 	font-size: 15px;
 	cursor: pointer;
 	border-radius: 5px;
+	letter-spacing: .2em;
 }
 
 #submitFormulario:hover{
-	background-image: linear-gradient(to right, rgb(22,117,22), rgba(25,43,76));
+	background-image: linear-gradient(to right, rgb(255,226,3), rgba(25,43,76));
+	text-shadow: 2px 2px 5px green;
 }
 
 .projetoFormulario > legend {
