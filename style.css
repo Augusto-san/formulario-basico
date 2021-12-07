@@ -9,7 +9,7 @@ body{
 	top:50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	background-color: rgba(26,117,255,0.7);
+	background-color: rgba(3,53,128,0.84);
 	padding: 20px;
 	border-radius: 15px;
 	width: 70%;	
@@ -65,3 +65,4 @@ legend{
 	outline: none;
 	font-size: 
 }
+
