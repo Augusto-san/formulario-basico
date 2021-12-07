@@ -90,5 +90,5 @@ legend{
 }
 
 .inputGeneroFormulario:focus{
-	color: #ffe203;
+	background-color: #ffe203;
 }
