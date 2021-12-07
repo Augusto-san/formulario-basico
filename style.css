@@ -9,21 +9,21 @@ body{
 	top:50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	background-color: rgba(0,0,0,0.7);
+	background-color: rgba(26,117,255,0.7);
 	padding: 20px;
 	border-radius: 15px;
 	width: 70%;	
 }
 
 fieldset{
-	border:3px dashed #33cc33;
+	border:3px dashed #ffe203;
 }
 
 legend{
-	border: 1px solid #33cc33;
+	border: 1px solid #ffe203;
 	padding: 10px;
 	text-align: center;
-	background-color: #33cc33;
+	background-color: #ffe203; /*#33cc33;*/
 	border-radius: 8px;
 }
 
