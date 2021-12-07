@@ -92,3 +92,7 @@ legend{
 .inputGeneroFormulario > input{
 	background-color: #ffe203;
 }
+
+#retornar{
+	margin: 5% 5% 0 2%;
+}
