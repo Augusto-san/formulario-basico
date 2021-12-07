@@ -67,7 +67,7 @@ legend{
 }
 
 #submit{
-	background-image: linear-gradient(to right, rgb(), rgb());
+	background-image: linear-gradient(to right, rgb(77,77,77), rgb(26,26,26));
 	width: 100%;
 	border: none;
 	padding: 15px;
