@@ -51,8 +51,7 @@ legend{
 	color: #777575;
 }
 
-.inputUserFormulario:focus ~ .labelInputFormulario
-.inputUserFormulario:valid ~ .labelInputFormulario {
+.inputUserFormulario:focus ~ .labelInputFormulario{
 	top:-20px;
 	font-size: 12px;
 	color: #33cc33;
