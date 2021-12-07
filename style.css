@@ -12,7 +12,7 @@ body{
 	background-color: rgba(0,0,0,.5);
 	padding: 10px;
 	border-radius: 8px;
-	width: 70%;	
+	width: 90%;	
 }
 
 fieldset{
@@ -89,7 +89,7 @@ legend{
 	color: #000 !important;
 }
 
-#feminino{
+.feminino{
 	color: #ffe203 !important;
 }
 
