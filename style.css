@@ -86,3 +86,7 @@ legend{
 .projetoFormulario > legend {
 	color: #000 !important;
 }
+
+.inputGeneroFormulario:focused{
+	color: #ffe203;
+}
