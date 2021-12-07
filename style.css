@@ -9,4 +9,20 @@ body{
 	left: 50%;
 	transform: translate(-50%,-50%);
 	background-color: rgba(0,0,0,0.8);
+	padding: 15px;
+	border-radius: 15px;
+	width: 20%;	
+}
+
+fieldset{
+	border:3px solid #33cc33;
+}
+
+legend{
+	border: 1px solid #33cc33;
+	padding: 10px;
+	text-align: center;
+	background-color: #33cc33;
+	border-radius: 8px;
+	color: white;
 }
