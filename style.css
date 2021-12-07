@@ -89,7 +89,7 @@ legend{
 	color: #000 !important;
 }
 
-.feminino:hover, .masculino:hover, .outros:hover{
+.feminino:focus, .masculino:focus, .outros:focus{
 	color: #ffe203;
 }
 
