@@ -76,6 +76,7 @@ legend{
 	cursor: pointer;
 	border-radius: 5px;
 	letter-spacing: .2em;
+	font-weight: bold;
 }
 
 #submitFormulario:hover{
