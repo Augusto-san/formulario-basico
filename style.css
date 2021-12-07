@@ -10,7 +10,7 @@ body{
 	left: 50%;
 	transform: translate(-50%,-50%);
 	background-color: rgba(3,53,128,0.85);
-	padding: 20px;
+	padding: 10px;
 	border-radius: 15px;
 	width: 70%;	
 }
@@ -55,7 +55,7 @@ legend{
 .inputUserFormulario:valid ~ .labelInputFormulario{
 	top:-20px;
 	font-size: 12px;
-	color: #33cc33;
+	color: #ffe203; #33cc33;
 }
 
 #nascimentoFormulario{
@@ -63,9 +63,16 @@ legend{
 	padding: 8px;
 	border-radius: 	10px;
 	outline: none;
-	font-size: 
+	font-size: 15px;
 }
 
 #submit{
-	background-image: linear-gradient(to right, rgb(), rgb())
+	background-image: linear-gradient(to right, rgb(), rgb());
+	width: 100%;
+	border: none;
+	padding: 15px;
+	color: white;
+	font-size: 15px;
+	cursor: pointer;
+	border-radius: 10px;
 }
