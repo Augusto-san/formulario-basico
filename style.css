@@ -89,6 +89,6 @@ legend{
 	color: #000 !important;
 }
 
-.inputGeneroFormulario:focus{
+.inputGeneroFormulario{
 	background-color: #ffe203;
 }
