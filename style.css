@@ -17,6 +17,7 @@ body{
 
 fieldset{
 	border:3px dashed #ffe203;
+	border-radius: 5px;
 }
 
 legend{
@@ -81,7 +82,7 @@ legend{
 
 #submitFormulario:hover{
 	background-image: linear-gradient(to right, rgb(255,226,3), rgba(25,43,76));
-	text-shadow: 2px 2px 5px green;
+	text-shadow: 2px 2px 5px black;
 }
 
 .projetoFormulario > legend {
