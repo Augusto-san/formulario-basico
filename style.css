@@ -41,3 +41,17 @@ legend{
 	width: 100%;
 	letter-spacing: 2px;
 }
+
+.labelInputFormulario{
+	position: absolute;
+	top:0px;
+	left: 0px;
+	pointer-events: none;
+	transition: .5s;
+}
+
+.inputUserFormulario:focus ~ .labelInputFormulario {
+	top:-20px;
+	font-size: 12px;
+	color: #33cc33;
+}
