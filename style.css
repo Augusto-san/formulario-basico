@@ -9,7 +9,7 @@ body{
 	top:50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	background-color: rgba(3,53,128,0.84);
+	background-color: rgba(3,53,128,0.85);
 	padding: 20px;
 	border-radius: 15px;
 	width: 70%;	
@@ -66,3 +66,6 @@ legend{
 	font-size: 
 }
 
+#submit{
+	background-image: linear-gradient(to right, rgb(), rgb())
+}
