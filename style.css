@@ -35,4 +35,8 @@ legend{
 	background:none;
 	border:none;
 	border-bottom: 1px solid white;
+	outline: none;
+	color: white;
+	font-size: 15px;
+	width: 100%;
 }
