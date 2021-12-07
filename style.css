@@ -78,7 +78,7 @@ legend{
 }
 
 #submitFormulario:hover{
-	background-image: linear-gradient(to right, rgba(51,204,51), rgba(25,43,76));
+	background-image: linear-gradient(to right, rgb(22,117,22), rgba(25,43,76));
 }
 
 .caixaFormulario > legend {
