@@ -89,10 +89,15 @@ legend{
 	color: #000 !important;
 }
 
-.feminino:hover{
+.feminino:focus{
 	color: #ffe203;
 }
 
 #retornar{
 	position: relative;
+}
+
+#teste > input:checked{
+	height: 20px;
+	width: 20px;
 }
