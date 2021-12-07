@@ -9,7 +9,7 @@ body{
 	top:50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	background-color: rgba(3,53,128,1);
+	background-color: rgba(0,0,0,.5);
 	padding: 10px;
 	border-radius: 15px;
 	width: 70%;	
