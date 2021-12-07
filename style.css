@@ -89,8 +89,8 @@ legend{
 	color: #000 !important;
 }
 
-.feminino{
-	color: #ffe203 !important;
+.feminino:hover{
+	color: #ffe203;
 }
 
 #retornar{
