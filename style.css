@@ -12,7 +12,7 @@ body{
 	background-color: rgba(0,0,0,0.7);
 	padding: 20px;
 	border-radius: 15px;
-	width: 30%;	
+	width: 70%;	
 }
 
 fieldset{
@@ -51,7 +51,8 @@ legend{
 	color: #777575;
 }
 
-.inputUserFormulario:focus ~ .labelInputFormulario{
+.inputUserFormulario:focus ~ .labelInputFormulario,
+.inputUserFormulario:valid ~ .labelInputFormulario{
 	top:-20px;
 	font-size: 12px;
 	color: #33cc33;
