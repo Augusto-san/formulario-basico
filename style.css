@@ -25,5 +25,14 @@ legend{
 	text-align: center;
 	background-color: #33cc33;
 	border-radius: 8px;
+}
 
+.inputFormulario{
+	position: relative;
+}
+
+.inputUserFormulario{
+	background:none;
+	border:none;
+	border-bottom: 1px solid white;
 }
