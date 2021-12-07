@@ -97,7 +97,7 @@ legend{
 	position: relative;
 }
 
-#teste > input:checked{
+#teste > input:active{
 	height: 20px;
 	width: 20px;
 }
