@@ -5,10 +5,10 @@ body{
 
 .caixaFormulario{
 	color: white;
-	position: absolute;
+	position: relative;
 	top:50%;
 	left: 50%;
-	transform: translate(-50%,-50%);
+	transform: translate(-50%,0%);
 	background-color: rgba(0,0,0,.5);
 	padding: 10px;
 	border-radius: 8px;
@@ -94,5 +94,5 @@ legend{
 }
 
 #retornar{
-	position: absolute;
+	position: relative;
 }
