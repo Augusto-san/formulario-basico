@@ -89,7 +89,7 @@ legend{
 	color: #000 !important;
 }
 
-.feminino:focus{
+.feminino:active, .masculino:hover, .outros:focus{
 	color: #ffe203;
 }
 
@@ -97,7 +97,5 @@ legend{
 	position: relative;
 }
 
-#teste > input:active{
-	height: 20px;
-	width: 20px;
-}
+/*https://stackoverflow.com/questions/8619406/css-selected-pseudo-class-similar-to-checked-but-for-option-elements
+*/
